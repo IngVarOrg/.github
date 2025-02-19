@@ -1,1 +1,2 @@
-![img.png](./resources/img.png)
+![img.png](./resources/img.jpg)
+**Contacts**: [Igor Panasyuk](https://t.me/IgorWalther)
